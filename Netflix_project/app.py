@@ -107,6 +107,8 @@ if page == "Overview":
 
     st.title("🎬 Netflix Movies & TV Shows Analysis")
 
+    st.subheader("Created by Yeturi Venu Gopal")
+
     st.write("Data Analyst Internship Project")
 
     c1, c2, c3 = st.columns(3)
